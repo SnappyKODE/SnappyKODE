@@ -7,7 +7,7 @@ I'm a frontend web developer.
 
 👩‍💻 I'm currently working on Mastering Full stack Development.
 
-🧠 I'm currently learning React and TailWind.
+🧠 I'm currently learning backend technologies.
 
 
 ## 🛠 Skills
@@ -17,6 +17,10 @@ I'm a frontend web developer.
 - Bootstrap
 - Jquery
 - React JS
+- Node JS
+- Express JS
+- MongoDB
+- Basic Python
 
 
 ## 🔗 Links
